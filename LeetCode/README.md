@@ -1,6 +1,6 @@
 <h1 style="text-align:center">LeetCode</h1>
 
-<h1 style="text-align:center">题解</h1>
+<h3 style="text-align:center">Go题解</h3>
 
 | 题号 | 题目 | 题解 | 类别 | 难度 | 
 |:---|:---|:---:|:---:|:---:|
