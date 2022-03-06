@@ -15,9 +15,9 @@ return [0, 1].
 
 
 
-[Code](main.go)
+[Code](p1.go)
 
-[Test](main_test.go)
+[Test](p1_test.go)
 
 ## 思路
 最优解法时间复杂度是O(n) 使用 map 将求解值与索引记录下来 循环遍历到需要这个求解值时，便可以获得对应的索引

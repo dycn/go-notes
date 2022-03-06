@@ -31,6 +31,9 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 
 
 
-[Code](main.go)
+[Code](p2.go)
 
-[Test](main_test.go)
+[Test](p2_test.go)
+
+
+## 思路
