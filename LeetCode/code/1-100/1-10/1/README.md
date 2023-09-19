@@ -1,4 +1,4 @@
-# [1. Two Sum](https://leetcode.com/problems/two-sum)
+# [Two Sum](https://leetcode.com/problems/two-sum)
 
 Given an array of integers, return **indices** of the two numbers such that they add up to a specific target.
 
@@ -21,3 +21,6 @@ return [0, 1].
 
 ## 思路
 最优解法时间复杂度是O(n) 使用 map 将求解值与索引记录下来 循环遍历到需要这个求解值时，便可以获得对应的索引
+
+Array<br/>HashTable
+简单
